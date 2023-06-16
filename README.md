@@ -8,9 +8,10 @@
 For English speaking users:
 
 👋 Hi, i'm Igor
-👀 I am a beginner web developer with a strong desire to become a professional in the field of HTML, CSS, and JavaScript. I love creating amazing user interfaces and websites that are not only functional but also aesthetically pleasing. I have learned the fundamentals of HTML (cross-browser compatibility, semantics, and validity) and CSS (proficient in Grid & Flex), allowing me to create simple web pages using various tools and frameworks such as Bootstrap and Materialize. Additionally, I have studied JavaScript and jQuery to add interactivity to pages and create animations. I am proficient in the SASS preprocessor.
 
+👀 I am a beginner web developer with a strong desire to become a professional in the field of HTML, CSS, and JavaScript. I love creating amazing user interfaces and websites that are not only functional but also aesthetically pleasing. I have learned the fundamentals of HTML (cross-browser compatibility, semantics, and validity) and CSS (proficient in Grid & Flex), allowing me to create simple web pages using various tools and frameworks such as Bootstrap and Materialize. Additionally, I have studied JavaScript and jQuery to add interactivity to pages and create animations. I am proficient in the SASS preprocessor.
 I am eager to expand my knowledge and skills further to develop more complex and beautiful web applications. If you are looking for a young and energetic web developer, I would be delighted to join your team and work towards achieving our common goals in web development.
+
 🌱 Currently, I am studying DOM, Ajax & JSON and plan to move on to learning Angular, Vue & React frameworks in the future.
 <!---
 Igor-Smykov/Igor-Smykov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
