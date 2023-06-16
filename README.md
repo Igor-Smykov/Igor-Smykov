@@ -6,6 +6,7 @@
 - 🌱 Сейчас я учу DOM, Ajax & Json, а так же в будущем перейду к освоению фреймворков Angular, Vue & React.
 
 For English speaking users:
+
 👋 Hi, i'm Igor
 👀 I am a beginner web developer with a strong desire to become a professional in the field of HTML, CSS, and JavaScript. I love creating amazing user interfaces and websites that are not only functional but also aesthetically pleasing. I have learned the fundamentals of HTML (cross-browser compatibility, semantics, and validity) and CSS (proficient in Grid & Flex), allowing me to create simple web pages using various tools and frameworks such as Bootstrap and Materialize. Additionally, I have studied JavaScript and jQuery to add interactivity to pages and create animations. I am proficient in the SASS preprocessor.
 
